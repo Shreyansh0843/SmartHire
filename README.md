@@ -19,3 +19,12 @@ Smart recruitment system using NLP and ML to match candidates with job roles. Bu
  
 Built from a real dataset of 1,000+ resumes with actual hiring decisions.
 
+# ⚡ Quick Demo
+
+- **Run in Google Colab (recommended):**
+  - Upload main.ipynb to Google Colab
+  - Upload your AI_Resume_Screening.csv dataset
+  - Run all cells - everything installs automatically
+  - Get instant results with the interactive Gradio demo
+  
+Test with your own data: Just replace the CSV file with your resume dataset.
