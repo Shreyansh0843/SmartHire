@@ -18,3 +18,9 @@ This system automatically
   -Provides salary predictions and hiring probability scores
 
 Built from a real dataset of 1,000+ resumes with actual hiring decisions.
+
+- **Solution:** This system automatically
+  - Screens resumes with 85%+ accuracy using ML models
+  - Matches candidates to jobs using semantic similarity
+  - Explains WHY a candidate is a good fit (explainable AI)
+  - Provides salary predictions and hiring probability scores
