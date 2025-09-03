@@ -11,7 +11,8 @@ Smart recruitment system using NLP and ML to match candidates with job roles. Bu
 - **Problem:**
    Recruiters spend hours manually screening resumes and matching candidates to job postings.
 - **Solution:**
-   This system automatically:
+ #This system automatically
+  
     -Screens resumes with 85%+ accuracy using ML models
     -Matches candidates to jobs using semantic similarity
     -Explains WHY a candidate is a good fit (explainable AI)
